@@ -1,1 +1,1 @@
-0x06. C - More pointers, arrays and strings Project
+My read me file for 0x06-pointers_arrays_strings
